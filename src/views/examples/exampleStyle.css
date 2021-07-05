@@ -1,0 +1,15 @@
+
+.btn_clrChange {
+    background-color: #1a920c;
+    border-color: #1a920c;
+}
+.bg-gradient-info {
+    background: linear-gradient(
+87deg
+, #5dd25b 0, #157f07 100%) !important;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #1a920c;
+    border-color: #1a920c;
+}
